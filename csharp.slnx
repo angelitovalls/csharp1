@@ -1,3 +1,13 @@
 <Solution>
   <Project Path="ConsoleApp1/opdracht01.csproj" />
+  <Project Path="opdracht02/opdracht02.csproj" />
+  <Project Path="opdracht03/opdracht03.csproj" />
+  <Project Path="opdracht04/opdracht04.csproj" />
+  <Project Path="opdracht05/opdracht05.csproj" />
+  <Project Path="opdracht06/opdracht06.csproj" />
+  <Project Path="opdracht07/opdracht07.csproj" />
+  <Project Path="opdracht08/opdracht08.csproj" />
+  <Project Path="opdracht09/opdracht09.csproj" />
+  <Project Path="opdracht10/opdracht10.csproj" />
+  <Project Path="opdracht11/opdracht11.csproj" />
 </Solution>
