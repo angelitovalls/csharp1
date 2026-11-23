@@ -1,4 +1,4 @@
-﻿namespace opdracht01
+﻿namespace opdracht01 
 {
     internal class Program
     {
