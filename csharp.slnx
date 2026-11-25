@@ -11,4 +11,5 @@
   <Project Path="opdracht10/opdracht10.csproj" />
   <Project Path="opdracht11/opdracht11.csproj" />
   <Project Path="opdracht12/opdracht12.csproj" Id="44cbf9d1-5d66-4b77-ab1c-2ba896e6b497" />
+  <Project Path="opdracht13/opdracht13.csproj" Id="7b974fff-44f4-4b26-9aac-ffe421091d4f" />
 </Solution>
