@@ -6,7 +6,7 @@
         {
             Console.WriteLine("kies een naam");
 
-            String[] namen = { "Kerem", "Daan", "Klaas", "Piet", "Kerem" };
+            String[] namen = { "Kerem", "Daan", "Klaas", "Piet", "Noa" };
 
             foreach (string naam in namen)
             {
